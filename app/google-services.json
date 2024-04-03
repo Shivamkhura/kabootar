@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425391673206",
+    "project_id": "kabootar-3a6af",
+    "storage_bucket": "kabootar-3a6af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425391673206:android:f20974998462fc97023457",
+        "android_client_info": {
+          "package_name": "com.example.kabootar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcnw7YBVRVmcF1WdBYHmaXHgWJRAdzytc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
